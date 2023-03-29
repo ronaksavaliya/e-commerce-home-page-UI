@@ -21,3 +21,4 @@ function sliderShow(){
 }
 
 sliderShow();
+let justforgit;
